@@ -39,7 +39,7 @@ export function score(rank, percent, minPercent) {
     
     score = Math.max(0, score);
 
-    if (percent == 100) {
+    if (percent >= 100) {
         return round(score);
     }
     else if (percent >= minPercent) {
