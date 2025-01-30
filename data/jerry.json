@@ -88,6 +88,11 @@
         },
         {
             "percent": "100",
+            "link": "https://youtu.be/Rq7pfMGOF1s",
+            "user": "Th13teen"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/GM4v87gWXQU",
             "user": "Ink"
         },
@@ -100,6 +105,16 @@
             "percent": "100",
             "link": "https://youtu.be/WAxmGFq8yA0",
             "user": "Vin24Sev"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/_yyIbz4Bk0A",
+            "user": "erzor"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/G4K6fktBIlk",
+            "user": "CasperDePidgey"
         }
     ]
 }

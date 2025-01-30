@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/qu84X4hi7NE",
+            "user": "TheJaco9"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/yg7o0bIDs3Y",
             "user": "Zest"
         },
@@ -150,6 +155,26 @@
             "percent": "100",
             "link": "https://youtu.be/6fMICaPtoVQ",
             "user": "GHC"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/7-8NTQNCvyk?t=270",
+            "user": "Philbon"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/AX2-MhRzanQ",
+            "user": "CasperDePidgey"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/FemBhIuTHfo?t=209",
+            "user": "Izzeee"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/GSyefIT_pfQ",
+            "user": "Katushe"
         }
     ]
 }

@@ -4,12 +4,32 @@
     "author": "TheLasaga",
     "verifier": "GertrudeGaming",
     "desc": "1.9 gdps 2 player level",
-    "percentToQualify": "100",
+    "percentToQualify": "49",
     "handcam": 2,
     "hacked": false,
     "unrated": true,
     "verificationVid": "https://youtu.be/9KuFReW4uoM",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/iaT14GxhH20",
+            "user": "ty3544"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/hK-aLAMl6aA",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/N5z5Tf4GiyQ",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/R3byH5zWOg0",
+            "user": "Neuron"
+        }
     ]
 }

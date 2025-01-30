@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/bvglPhQP-Kk",
+            "user": "TheJaco9"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/gXapzUc3JT4",
             "user": "Zest"
         },
@@ -20,6 +25,11 @@
             "percent": "100",
             "link": "https://youtu.be/gjafcRUvfmo",
             "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/UQK4BFJn-0M",
+            "user": "Spectre"
         },
         {
             "percent": "100",
@@ -40,6 +50,11 @@
             "percent": "100",
             "link": "https://youtu.be/GQap0sILrnM",
             "user": "Charlotte"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-HiZGbwlodg",
+            "user": "FlameShooter"
         },
         {
             "percent": "100",
@@ -263,7 +278,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=9wILC6naesk",
+            "link": "https://youtu.be/9wILC6naesk",
             "user": "Fniges"
         },
         {
@@ -283,37 +298,27 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=BY5Fvi4zuvw",
+            "link": "https://youtu.be/BY5Fvi4zuvw",
             "user": "gBen"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Xdya5HD7udw?t=442",
+            "link": "https://youtu.be/Xdya5HD7udw?t=442",
             "user": "conski"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=vcnlv8xFbKA",
+            "link": "https://youtu.be/vcnlv8xFbKA",
             "user": "Sneaky_"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=nUv71DQ_Ilg",
+            "link": "https://youtu.be/nUv71DQ_Ilg",
             "user": "xianlucax"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=-HiZGbwlodg",
-            "user": "FlameShooter"
-        },
-        {
-            "percent": "100",
-            "link": "https://www.youtube.com/watch?v=UQK4BFJn-0M",
-            "user": "Spectre"
-        },
-        {
-            "percent": "100",
-            "link": "https://www.youtube.com/watch?v=kApEKrm8A7A",
+            "link": "https://youtu.be/kApEKrm8A7A",
             "user": "Cr1msoN"
         },
         {
@@ -323,12 +328,22 @@
         },
         {
             "percent": "100",
+            "link": "https://youtu.be/czio5KlGMBs",
+            "user": "Ballclawguy"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/eTp2QaHV1IE",
+            "user": "Simons"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/OFOIr9wSOow?t=524",
             "user": "A05Polzar"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=PFXtzpa7YAc",
+            "link": "https://youtu.be/PFXtzpa7YAc",
             "user": "evo_gd"
         },
         {
@@ -338,7 +353,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=2SLB--YMmvI",
+            "link": "https://youtu.be/2SLB--YMmvI",
             "user": "erzor"
         },
         {
@@ -355,6 +370,41 @@
             "percent": "100",
             "link": "https://youtu.be/ZrGOXHL3VgM?t=401",
             "user": "ruAPple"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/FO5dFJ8xVL8",
+            "user": "Magenta"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Mpd2JSyvoJo",
+            "user": "Woachi"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/3qXLCqiZoDs",
+            "user": "NickGamer57GD"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/VtkcCtiHvgY",
+            "user": "Bluebarracks"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/zJNdRxQ1SvY",
+            "user": "Starmapo"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/pvwS-feabX8",
+            "user": "drige"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fJEyqX2POXA?t=18",
+            "user": "CasperDePidgey"
         }
     ]
 }

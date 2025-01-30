@@ -11,6 +11,11 @@
     },
     {
         "role": "admin",
+        "name": "gBen",
+        "link": "https://www.youtube.com/channel/UClgIANE-cdR16TAT1ly9UBw"
+    },
+    {
+        "role": "helper",
         "name": "tomm",
         "link": "https://www.youtube.com/channel/UCObExuzSHQ7Y6PK78fpos_Q"
     },
@@ -26,11 +31,6 @@
     },
     {
         "role": "helper",
-        "name": "gBen",
-        "link": "https://www.youtube.com/channel/UClgIANE-cdR16TAT1ly9UBw"
-    },
-    {
-        "role": "helper",
         "name": "gdbatle1",
         "link": "https://www.youtube.com/channel/UCSXd6Nc0CeFNpOLP7JvKJnQ"
     },
@@ -43,11 +43,6 @@
         "role": "helper",
         "name": "Ketchup",
         "link": "https://www.youtube.com/channel/UCdzFnJqHSRcjbjUBBV102Uw"
-    },
-    {
-        "role": "helper",
-        "name": "||Zest||",
-        "link": "https://www.youtube.com/channel/UCQtU3lGTBodjRVTzqWIosmw"
     },
     {
         "role": "dev",

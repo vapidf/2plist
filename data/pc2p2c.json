@@ -7,7 +7,7 @@
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
-    "unrated": true,
+    "unrated": false,
     "verificationVid": "https://youtu.be/rLHYdGddxjk",
     "password": "",
     "records":[
@@ -50,6 +50,11 @@
             "percent": "100",
             "link": "https://youtu.be/4_tmXUrmBWc",
             "user": "GHC"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/tFZZSfg3E84?t=381",
+            "user": "conski"
         }
     ]
 }

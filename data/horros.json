@@ -23,13 +23,28 @@
 		},
         {
 			"percent": "100",
-			"link": "https://www.youtube.com/watch?v=HE1foGt8FzU",
+			"link": "https://youtu.be/HE1foGt8FzU",
 			"user": "GertrudeGaming"
 		},
         {
 			"percent": "100",
 			"link": "https://youtu.be/Sa8xq6qZKj0",
 			"user": "Nsaynchkn"
+		},
+        {
+			"percent": "100",
+			"link": "https://youtu.be/mLFJv1nETZc",
+			"user": "GuitGuit"
+		},
+        {
+			"percent": "100",
+			"link": "https://youtu.be/8KLBKU99Q0Q",
+			"user": "ty3544"
+		},
+        {
+			"percent": "49",
+			"link": "https://youtu.be/znj50LbSbCg",
+			"user": "RanOutOfUsers"
 		}
     ]
 }

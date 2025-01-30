@@ -15,7 +15,12 @@
             "percent": "100",
             "link": "https://youtu.be/DBJN07HRrrM",
             "user": "Pizzabote6h"
-        }, 
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/xwg1eXcFmcY",
+            "user": "TheJaco9"
+        },
         {
             "percent": "100",
             "link": "https://youtu.be/4Ml55fWBjZ4",
@@ -90,6 +95,11 @@
             "percent": "100",
             "link": "https://youtu.be/d11MMjsgAEs",
             "user": "GHC"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Hjykb6Iip7Q",
+            "user": "CasperDePidgey"
         }
     ]
 }

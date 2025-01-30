@@ -7,7 +7,7 @@
     "percentToQualify": "51",
     "handcam": 2,
     "hacked": false,
-    "unrated": true,
+    "unrated": false,
     "verificationVid": "https://youtu.be/gPIyDgVYhDU",
     "password": "",
     "records": [
@@ -33,12 +33,22 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=cQoGvJzl1-I",
+            "link": "https://youtu.be/cQoGvJzl1-I",
             "user": "Rei"
         },
         {
+            "percent": "100",
+            "link": "https://youtu.be/k9SaF6N7NrE",
+            "user": "ZingerX"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-OJlrnLE8-w",
+            "user": "Nsaynchkn"
+        },
+        {
             "percent": "96",
-            "link": "https://www.youtube.com/watch?v=GkBTt-UyQds",
+            "link": "https://youtu.be/GkBTt-UyQds",
             "user": "Lloydubs"
         },
         {
